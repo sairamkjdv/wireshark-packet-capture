@@ -49,7 +49,7 @@ Capture live network packets using Wireshark, identify multiple protocols, and a
 ---
 
 ## Files
-- `Packet Capture.pcapng` — Raw packet capture file.
+- [packets-capture.pcapng](./packets-capture.pcapng) — Raw packet capture file.
 - `/screenshots/` — All screenshots from the process.
 - `README.md` — This report.
 
